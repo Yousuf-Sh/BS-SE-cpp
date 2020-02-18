@@ -3,9 +3,9 @@
 using namespace std;
  main()
 {
- 	int p,i=0;
+ 	int p,i=1;
  	
- 	while(i==0)
+ 	while(i==1)
   {
 	 
 	 cout<<"Enter your percentage";
