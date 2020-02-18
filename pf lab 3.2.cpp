@@ -7,7 +7,7 @@ using namespace std;
  	
  	while(i==0)
   {
-	 clrscr();
+	 
 	 cout<<"Enter your percentage";
  	cin>>p;
 	 if (p>=80&&p<101)
